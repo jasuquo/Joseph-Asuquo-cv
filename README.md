@@ -85,21 +85,21 @@ SKILLS  SUMMARY
 • Build  And Deploy Azure Piplines, Dashboards
 
 ```
-### INFRASTRUCTURE SPECIALIST				       	        April 2014 – June, 2017
-#### Huawei				    	         		Lagos, Nigeria
+### INFRASTRUCTURE SPECIALIST April 2014 – June, 2017
+#### Huawei	Lagos, Nigeria
 ```
-•Monitored and troubleshoot servers, as well as testing and installed the most recent software for end-users, increasing service usability by 32%. 
-•Performed 100% server maintenance procedures, monitored system access, controlled file space, and optimized the system for optimum performance, Cluster management, and BASH scripting for file and log retrieval/collection/monitoring.
-•Improved monitoring of applications and infrastructure systems, resulting in a 13% reduction in critical incidents.
-•Supervised a team of 5 people who were in charge of change management, automation, and all-day production support.
-•Facilitated I.T infrastructure in 60 retail shops/mobile point of sales (MPOS buses)/kiosks/Regional offices/mini-shops within the South West Region in Nigeria.
-•Developed and maintained automated CI/CD pipelines for code deployment using Jenkins while automating the deployment process, resulting in the elimination of 50% manual effort and an increase in work efficiency.
-•Created SOPs and deployed OS and update patches for production Systems using the system configuration manager (SCCM)
-•Orchestrated reports and metrics for top management as required for all services using SCOM for monitoring of Critical systems
-•Mobilized first-line support for Windows Users and applications. Using protocol like Active Directory, share drive access, GPO, Windows 7 -installation and upgrade, patching network cables.
-•Spearheaded Network Optimization and ensured the network infrastructure meets the growing requirements of the business, which increased the customer base by 1000+
-•Installed Cloud Server Administration (Azure) and operated both physically and virtually, implementing 100% availability
-•Oversaw designing, testing and implementing of disaster recovery and conducting vulnerability assessments in the organization
+• Monitored and troubleshoot servers, as well as testing and installed the most recent software for end-users, increasing service usability by 32%. 
+• Performed 100% server maintenance procedures, monitored system access, controlled file space, and optimized the system for optimum performance, Cluster management, and BASH scripting for file and log retrieval/collection/monitoring.
+• Improved monitoring of applications and infrastructure systems, resulting in a 13% reduction in critical incidents.
+• Supervised a team of 5 people who were in charge of change management, automation, and all-day production support.
+• Facilitated I.T infrastructure in 60 retail shops/mobile point of sales (MPOS buses)/kiosks/Regional offices/mini-shops within the South West Region in Nigeria.
+• Developed and maintained automated CI/CD pipelines for code deployment using Jenkins while automating the deployment process, resulting in the elimination of 50% manual effort and an increase in work efficiency.
+• Created SOPs and deployed OS and update patches for production Systems using the system configuration manager (SCCM)
+• Orchestrated reports and metrics for top management as required for all services using SCOM for monitoring of Critical systems
+• Mobilized first-line support for Windows Users and applications. Using protocol like Active Directory, share drive access, GPO, Windows 7 -installation and upgrade, patching network cables.
+• Spearheaded Network Optimization and ensured the network infrastructure meets the growing requirements of the business, which increased the customer base by 1000+
+• Installed Cloud Server Administration (Azure) and operated both physically and virtually, implementing 100% availability
+• Oversaw designing, testing and implementing of disaster recovery and conducting vulnerability assessments in the organization
 ```
 ### EDUCATION
 ```
