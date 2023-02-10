@@ -1,6 +1,4 @@
 # Joseph-Asuquo-cv
-My Digital CV
-
 	 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 JOSEPH ASUQUO
@@ -8,7 +6,7 @@ Lagos, Nigeria.
 Tel: +2348099444351, +2348137715102
 Email: joemileasuquo@gmail.com
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-LINUX/DEVOPS ENGINEER
+### LINUX/DEVOPS ENGINEER
 
 #### OBJECTIVE
 **To secure a position as a Linux/DevOps Engineer utilizing my Decade of experience in design, implementation, and maintenance of large-scale, highly available systems and infrastructure.**
@@ -16,7 +14,7 @@ LINUX/DEVOPS ENGINEER
 #### SUMMARY 
 With a decade of experience in the IT industry, I am a highly skilled Linux/DevOps engineer with a proven track record of delivering complex and mission-critical projects. I have expertise in designing, implementing, and maintaining secure, scalable, and highly available systems, utilizing various open-source technologies. I possess a deep understanding of automation, continuous integration/delivery, and cloud infrastructure, allowing me to provide efficient and effective solutions to meet the demanding needs of modern organizations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-SKILLS  SUMMARY
+### SKILLS  SUMMARY
 •	Linux/Unix administration
 •	DevOps
 •	Automation and configuration management
@@ -48,7 +46,7 @@ SKILLS  SUMMARY
 
 ### Project
 ```
-•	Build And Deploy A Cicd Pipeline Using All Deveops Tools Integrating Sast (Git, Maven, Jenkins, SonarQube, Jfrog, Docker, Kubernetes,)
+•	Build And Deploy A Cicd Pipeline Using All Devops Tools Integrating Sast (Git, Maven, Jenkins, SonarQube, Jfrog, Docker, Kubernetes,AWS)
 •	Infrastructure Automation With Terraform Cloud
 •	Deployed a highly available Web application on AWS EKS using the following tech Stack.(React, Nodejs, MongoDB, RabbitMQ, notification api)
 
