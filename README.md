@@ -1,20 +1,21 @@
 # Joseph-Asuquo-cv
 My Digital CV
 
-JOSEPH ASUQUO	 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+JOSEPH ASUQUO
 Lagos, Nigeria. 	       			                    
 Tel: +2348099444351, +2348137715102
 Email: joemileasuquo@gmail.com
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 LINUX/DEVOPS ENGINEER
 
-OBJECTIVE
+### OBJECTIVE
 To secure a position as a Linux/DevOps Engineer utilizing my Decade of experience in design, implementation, and maintenance of large-scale, highly available systems and infrastructure.
 
-SUMMARY 
+### SUMMARY 
 With a decade of experience in the IT industry, I am a highly skilled Linux/DevOps engineer with a proven track record of delivering complex and mission-critical projects. I have expertise in designing, implementing, and maintaining secure, scalable, and highly available systems, utilizing various open-source technologies. I possess a deep understanding of automation, continuous integration/delivery, and cloud infrastructure, allowing me to provide efficient and effective solutions to meet the demanding needs of modern organizations.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 SKILLS  SUMMARY
 •	Linux/Unix administration
 •	DevOps
@@ -26,11 +27,11 @@ SKILLS  SUMMARY
 •	Security
 •	Performance Tuning
 •	Independent and Team Player
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-PROFESSIONAL EXPERIENCE
-
+### PROFESSIONAL EXPERIENCE
+```
 DevOps Consultant                                                                                                         August 2022 till date 
 Bloomy technologies
 •	Cloud Computing Technologies  and Implementation  Training (AWS,AZURE)
@@ -42,13 +43,15 @@ Bloomy technologies
 •	Docker Training for Application containerization 
 •	Kubernetes Training for container Orchestration
 •	Monitoring for End to End Infrastructure  insight and management (Prometheus & Grafana, CloudWatch, Zabbix, Splunk , etc)
+```
+```
 Project
 
 •	Build And Deploy A Cicd Pipeline Using All Deveops Tools Integrating Sast (Git, Maven, Jenkins, SonarQube, Jfrog, Docker, Kubernetes,)
 •	Infrastructure Automation With Terraform Cloud
 •	Deployed a highly available Web application on AWS EKS using the following tech Stack.(React, Nodejs, MongoDB, RabbitMQ, notification api)
 
-
+```
 
 •	 Linux DevOps  Engineer				       	          June, 2017 –  August 2022
 Bao Systems					    	         		           Abuja, US 
@@ -100,18 +103,14 @@ Convenant University         			               			 	Ogun, Nigeria
 
 SOFT SKILLS
 
-Negotiation Skills	 Organization Skills
+* Negotiation Skills	* Organization Skills
 	 
- Flexibility
+* Flexibility.          * Listening Skills 
 
- Listening Skills 
-
-	 written and verbal communication
-
- Fast Learner 
+* written and verbal communication * Fast Learner 
 
 
-TECHNICAL SKILLS BREAKDOWN
+### TECHNICAL SKILLS BREAKDOWN
 
 •	VERSION CONTROL: GIT, BITBUCKET
 •	CONTINUOUS INTEGRATION: JENKINS, GIT LAB
@@ -135,7 +134,7 @@ TECHNICAL SKILLS BREAKDOWN
 •	CERTIFICATIONS: ITIL V3 CERTIFIED, MICROSOFT TECHNOLOGY SPECIALIST, AWS CERTIFIED ASSOCIATE IN VIEW, RED HAT CERTIFIED ADMINISTRATOR IN VIEW, CKAD IN VIEW
 
  PROJECTS
-•	BUILD CICD PIPELINE FOR STORING GENERATED ARTIFACTS IN JFROG USING JENKINS.
+•	BUILT CICD PIPELINE FOR STORING GENERATED ARTIFACTS IN JFROG USING JENKINS.
 •	DEPLOY A JAVA WEB APPLICATION USING  CICD-GIT,MAVEN, JENKINS,SONARQUBE, ANSIBLE, DOCKER
 •	INSTALLATION AND CONFIGURATION OF IDS(INTRUSION DETECTION SYSTEM), IPS, NIDS (SNORT,SURICATA, ZEEK)
 •	DEPLOYMENT OF OPENID AUTH FOR WEB APPLICATIONS USING AZURE AS IDP,
@@ -145,5 +144,4 @@ TECHNICAL SKILLS BREAKDOWN
 •	BUILT  VERSION CONTROL SYSTEM FOR DEVELOPERS IMPLEMENTING GITHUB BRANCHING STARTEGIES.
 •	
 
-![image](https://user-images.githubusercontent.com/10384951/218047257-9e70ddd1-01b0-47b7-9b07-a86d84a4f530.png)
 
